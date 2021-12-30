@@ -1,0 +1,20 @@
+{
+  "name": "smart_contracts",
+  "version": "1.0.0",
+  "description": "Ethereum solidity smart contacts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/sleepyqadir/smart_contracts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sleepyqadir/smart_contracts/issues"
+  },
+  "homepage": "https://github.com/sleepyqadir/smart_contracts#readme"
+}

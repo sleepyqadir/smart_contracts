@@ -109,3 +109,4 @@ contract BlindAuction {
         return true;
     }
 }
+
